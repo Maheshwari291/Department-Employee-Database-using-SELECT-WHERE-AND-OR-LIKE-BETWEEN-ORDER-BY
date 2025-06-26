@@ -1,1 +1,2 @@
-# Department-Employee-Database-using-SELECT-WHERE-AND-OR-LIKE-BETWEEN-ORDER-BY
+To extract and filter data from one or more tables using key SQL commands 
+like `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`, `AND`, `OR`, `LIKE`, `BETWEEN`, and `JOIN`.
